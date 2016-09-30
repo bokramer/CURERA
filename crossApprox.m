@@ -19,6 +19,10 @@ function [I,J,U,S,V,Hdiff_full,condH,Hdiff_iterates,HnormIterates] = crossApprox
 %       condH           vector of condition numbers of H_{k} at every it.
 %       Hdiff_full      ||H - H_{k}||\||H_{k}||
 %
+%   NOTES
+%      
+%   Based on the paper TT-cross approximation for multidimensional arrays (2010)
+%   by Ivan Oseledets and Eugene Tyrtyshnikov 
 %
 %  Copyright (c) MIT, 2016
 %  Boris Kramer (bokramer@mit.edu) and Alex A. Gorodesky(goroda@mit.edu)

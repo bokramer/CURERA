@@ -14,8 +14,7 @@ function I = maxvol(Q,epsTol,verbose)
 %
 %   NOTES
 %      
-%   Based on the paper TT-cross approximation for multidimensional arrays (2010)
-%   by Ivan Oseledets and Eugene Tyrtyshnikov 
+%   How to Find a Good Submatrix, (2010). by. A. Goreinov, I. V. Oseledets, D. V. Savostyanov, E. E. Tyrtyshnikov, and N. L. Zamarashkin   
 %
 %  Copyright (c) MIT, 2016
 %  Boris Kramer (bokramer@mit.edu) and Alex A. Gorodesky(goroda@mit.edu)
